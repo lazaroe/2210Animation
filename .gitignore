@@ -32,3 +32,13 @@ sysinfo.txt
 *.apk
 *.unitypackage
 *.DS_Store 
+
+Animation/Assets/textures/
+
+Animation/Assets/textures\.meta
+
+Animation/Assets/model\.dae\.meta
+
+Animation/Assets/model\.dae
+
+Animation/\.vscode/settings\.json
