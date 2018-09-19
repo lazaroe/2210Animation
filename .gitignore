@@ -162,3 +162,667 @@ Animation/Assets/Materials/Stairs4_and_Door_albedo\.mat\.meta
 Animation/Assets/Materials/Steering_wheel_albedo\.mat
 
 Animation/Assets/Materials/Steering_wheel_albedo\.mat\.meta
+
+Animation/Assets/Unity Recorder\.meta
+
+Animation/Assets/Unity Recorder/Documentation\.meta
+
+Animation/Assets/Unity Recorder/Documentation/UnityRecorderV1UserManual\.pdf
+
+Animation/Assets/Unity Recorder/Documentation/UnityRecorderV1UserManual\.pdf\.meta
+
+Animation/Assets/Unity Recorder/Editor\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/_RecorderComponent\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/_RecorderComponent\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/AspectRatio\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/AspectRatio\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/AspectRatioPropertyDrawer\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/AspectRatioPropertyDrawer\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/BaseRenderTextureInput\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/BaseRenderTextureInput\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/EditableLabel\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/EditableLabel\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/EnumProperyDrawer\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/EnumProperyDrawer\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/FileNameGenerator\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/FileNameGenerator\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/FileNameGeneratorDrawer\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/FileNameGeneratorDrawer\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/FrameRateProperyDrawer\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/FrameRateProperyDrawer\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/GenericRecorder\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/GenericRecorder\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Helpers\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Helpers/EnumHelper\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Helpers/EnumHelper\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Helpers/PresetHelper\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Helpers/PresetHelper\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Helpers/SerializableObjHelper\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Helpers/SerializableObjHelper\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Helpers/StatusBarHelper\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Helpers/StatusBarHelper\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Helpers/UIElementHelper\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Helpers/UIElementHelper\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Helpers/UnityHelpers\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Helpers/UnityHelpers\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/ImageHeightSelector\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/ImageHeightSelector\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/ImageInputSelector\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/ImageInputSelector\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/ImageInputSettings\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/ImageInputSettings\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/InputPropertyDrawer\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/InputPropertyDrawer\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/InputSettings\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/InputSettings\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/InputSettingsSelector\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/InputSettingsSelector\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/InputSettingsSelectorDrawer\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/InputSettingsSelectorDrawer\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/InternalEnums\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/InternalEnums\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Options\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Options\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/OutputPath\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/OutputPath\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/OutputPathDrawer\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/OutputPathDrawer\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/OutputResolution\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/OutputResolution\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/OutputResolutionPropertyDrawer\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/OutputResolutionPropertyDrawer\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/PanelSplitter\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/PanelSplitter\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorder\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorder\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderController\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderController\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderControllerSettings\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderControllerSettings\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderControllerSettingsPreset\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderControllerSettingsPreset\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderControllerSettingsPresetEditor\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderControllerSettingsPresetEditor\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderEditor\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderEditor\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderInput\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderInput\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderItem\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderItem\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Animation\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Animation/AnimationInput\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Animation/AnimationInput\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Animation/AnimationInputSettings\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Animation/AnimationInputSettings\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Animation/AnimationInputSettingsPropertyDrawer\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Animation/AnimationInputSettingsPropertyDrawer\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Audio\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Audio/AudioInput\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Audio/AudioInput\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Audio/AudioInputSettings\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Audio/AudioInputSettings\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Audio/AudioInputSettingsPropertyDrawer\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Audio/AudioInputSettingsPropertyDrawer\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Camera\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Camera/CameraInput\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Camera/CameraInput\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Camera/CameraInputSettings\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Camera/CameraInputSettings\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Camera/CameraInputSettingsPropertyDrawer\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Camera/CameraInputSettingsPropertyDrawer\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Camera/Shaders\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Camera/Shaders/CopyFB\.shader
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Camera/Shaders/CopyFB\.shader\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Camera360\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Camera360/Camera360Input\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Camera360/Camera360Input\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Camera360/Camera360InputPropertyDrawer\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Camera360/Camera360InputPropertyDrawer\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Camera360/Camera360InputSettings\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/Camera360/Camera360InputSettings\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/GameView\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/GameView/GameViewInput\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/GameView/GameViewInput\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/GameView/GameViewInputPropertyDrawer\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/GameView/GameViewInputPropertyDrawer\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/GameView/GameViewInputSettings\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/GameView/GameViewInputSettings\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/GameViewSize\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/GameViewSize\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/RenderTexture\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/RenderTexture/RenderTextureInput\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/RenderTexture/RenderTextureInput\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/RenderTexture/RenderTextureInputSettings\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/RenderTexture/RenderTextureInputSettings\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/RenderTexture/RenderTextureInputSettingsPropertyDrawer\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/RenderTexture/RenderTextureInputSettingsPropertyDrawer\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/RenderTextureSampler\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/RenderTextureSampler/RenderTextureSampler\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/RenderTextureSampler/RenderTextureSampler\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/RenderTextureSampler/RenderTextureSamplerPropertyDrawer\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/RenderTextureSampler/RenderTextureSamplerPropertyDrawer\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/RenderTextureSampler/RenderTextureSamplerSettings\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/RenderTextureSampler/RenderTextureSamplerSettings\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/RenderTextureSampler/Shaders\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/RenderTextureSampler/Shaders/BS4Accumulate\.shader
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/RenderTextureSampler/Shaders/BS4Accumulate\.shader\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/RenderTextureSampler/Shaders/BS4Normalize\.shader
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/RenderTextureSampler/Shaders/BS4Normalize\.shader\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/RenderTextureSampler/Shaders/BS4SuperShader\.shader
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Inputs/RenderTextureSampler/Shaders/BS4SuperShader\.shader\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/BaseFCRecorderSettings\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/BaseFCRecorderSettings\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/EXR\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/EXR/EXRRecorder\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/EXR/EXRRecorder\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/EXR/EXRRecorderSettings\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/EXR/EXRRecorderSettings\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/EXR/EXRRecorderSettingsEditor\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/EXR/EXRRecorderSettingsEditor\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Plugins\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Plugins/x86_64\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Plugins/x86_64/fccore\.bundle\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Plugins/x86_64/fccore\.bundle/Contents\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Plugins/x86_64/fccore\.bundle/Contents/Info\.plist
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Plugins/x86_64/fccore\.bundle/Contents/Info\.plist\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Plugins/x86_64/fccore\.bundle/Contents/MacOS\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Plugins/x86_64/fccore\.bundle/Contents/MacOS/fccore
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Plugins/x86_64/fccore\.bundle/Contents/MacOS/fccore\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Plugins/x86_64/fccore\.dll\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Plugins/x86\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Plugins/x86/fccore\.dll\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Encoder\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Encoder/EncoderBase\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Encoder/EncoderBase\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Encoder/EXREncoder\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Encoder/EXREncoder\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Encoder/fcAPI\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Encoder/fcAPI\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Encoder/GIFEncoder\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Encoder/GIFEncoder\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Encoder/MovieEncoder\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Encoder/MovieEncoder\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Encoder/MP4Encoder\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Encoder/MP4Encoder\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Encoder/PNGEncoder\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Encoder/PNGEncoder\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Encoder/WEBMEncoder\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Encoder/WEBMEncoder\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Misc\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Misc/Bool\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Misc/Bool\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Misc/BoolDrawer\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Misc/BoolDrawer\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Misc/DataPath\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Misc/DataPath\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Misc/DataPathDrawer\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/FrameCapturer/Scripts/Misc/DataPathDrawer\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/MP4\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/MP4/MP4Recorder\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/MP4/MP4Recorder\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/MP4/MP4RecorderSettings\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/MP4/MP4RecorderSettings\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/MP4/MP4RecorderSettingsEditor\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/MP4/MP4RecorderSettingsEditor\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/PNG\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/PNG/PNGRecorder\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/PNG/PNGRecorder\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/PNG/PNGRecorderSettings\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/PNG/PNGRecorderSettings\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/PNG/PNGRecorderSettingsEditor\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/PNG/PNGRecorderSettingsEditor\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/WEBM\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/WEBM/WEBMRecorder\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/WEBM/WEBMRecorder\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/WEBM/WEBMRecorderSettings\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/WEBM/WEBMRecorderSettings\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/WEBM/WEBMRecorderSettingsEditor\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/_Legacy/WEBM/WEBMRecorderSettingsEditor\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/AnimationRecorder\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/AnimationRecorder/AnimationRecorder\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/AnimationRecorder/AnimationRecorder\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/AnimationRecorder/AnimationRecorderSettings\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/AnimationRecorder/AnimationRecorderSettings\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/AnimationRecorder/AnimationRecorderSettingsEditor\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/AnimationRecorder/AnimationRecorderSettingsEditor\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/AnimationRecorder/Resources\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/AnimationRecorder/Resources/animation_recorder\.png
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/AnimationRecorder/Resources/animation_recorder\.png\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/GIFRecorder\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/GIFRecorder/GIFRecorder\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/GIFRecorder/GIFRecorder\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/GIFRecorder/GIFRecorderSettings\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/GIFRecorder/GIFRecorderSettings\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/GIFRecorder/GIFRecorderSettingsEditor\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/GIFRecorder/GIFRecorderSettingsEditor\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/ImageRecorder\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/ImageRecorder/ImageRecorder\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/ImageRecorder/ImageRecorder\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/ImageRecorder/ImageRecorderEditor\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/ImageRecorder/ImageRecorderEditor\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/ImageRecorder/ImageRecorderSettings\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/ImageRecorder/ImageRecorderSettings\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/ImageRecorder/Resources\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/ImageRecorder/Resources/d_imagesequence_16\.png
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/ImageRecorder/Resources/d_imagesequence_16\.png\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/ImageRecorder/Resources/imagesequence_16\.png
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/ImageRecorder/Resources/imagesequence_16\.png\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/MovieRecorder\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/MovieRecorder/MovieRecorder\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/MovieRecorder/MovieRecorder\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/MovieRecorder/MovieRecorderEditor\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/MovieRecorder/MovieRecorderEditor\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/MovieRecorder/MovieRecorderSettings\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/MovieRecorder/MovieRecorderSettings\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/MovieRecorder/Resources\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/MovieRecorder/Resources/d_movie_16\.png
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/MovieRecorder/Resources/d_movie_16\.png\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/MovieRecorder/Resources/movie_16\.png
+
+Animation/Assets/Unity Recorder/Editor/Sources/Recorders/MovieRecorder/Resources/movie_16\.png\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderSettings\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderSettings\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderSettingsAttribute\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderSettingsAttribute\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderSettingsPrefsEditor\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderSettingsPrefsEditor\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecordersInventory\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecordersInventory\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderWindow\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecorderWindow\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecordingSession\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecordingSession\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecordModePropertyDrawer\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/RecordModePropertyDrawer\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Resources\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Resources/customrecorder_16\.png
+
+Animation/Assets/Unity Recorder/Editor/Sources/Resources/customrecorder_16\.png\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Resources/d_customrecorder_16\.png
+
+Animation/Assets/Unity Recorder/Editor/Sources/Resources/d_customrecorder_16\.png\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Resources/d_popout_icon\.png
+
+Animation/Assets/Unity Recorder/Editor/Sources/Resources/d_popout_icon\.png\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Resources/popout_icon\.png
+
+Animation/Assets/Unity Recorder/Editor/Sources/Resources/popout_icon\.png\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Resources/recorder_icon\.png
+
+Animation/Assets/Unity Recorder/Editor/Sources/Resources/recorder_icon\.png\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Resources/Styles\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Resources/Styles/recorder_darkSkin\.uss
+
+Animation/Assets/Unity Recorder/Editor/Sources/Resources/Styles/recorder_darkSkin\.uss\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Resources/Styles/recorder_lightSkin\.uss
+
+Animation/Assets/Unity Recorder/Editor/Sources/Resources/Styles/recorder_lightSkin\.uss\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Resources/Styles/recorder\.uss
+
+Animation/Assets/Unity Recorder/Editor/Sources/Resources/Styles/recorder\.uss\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/Resources/vertical_gradient\.png
+
+Animation/Assets/Unity Recorder/Editor/Sources/Resources/vertical_gradient\.png\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/SceneHook\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/SceneHook\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/TargetedPropertyDrawer\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/TargetedPropertyDrawer\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/TextureFlipper\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/TextureFlipper\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Sources/VisualListItem\.cs
+
+Animation/Assets/Unity Recorder/Editor/Sources/VisualListItem\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Timeline\.meta
+
+Animation/Assets/Unity Recorder/Editor/Timeline/_WaitForEndOfFrameComponent\.cs
+
+Animation/Assets/Unity Recorder/Editor/Timeline/_WaitForEndOfFrameComponent\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Timeline/RecorderClip\.cs
+
+Animation/Assets/Unity Recorder/Editor/Timeline/RecorderClip\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Timeline/RecorderClipEditor\.cs
+
+Animation/Assets/Unity Recorder/Editor/Timeline/RecorderClipEditor\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Timeline/RecorderPlayableBehaviour\.cs
+
+Animation/Assets/Unity Recorder/Editor/Timeline/RecorderPlayableBehaviour\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Timeline/RecorderSelector\.cs
+
+Animation/Assets/Unity Recorder/Editor/Timeline/RecorderSelector\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Timeline/RecorderTrack\.cs
+
+Animation/Assets/Unity Recorder/Editor/Timeline/RecorderTrack\.cs\.meta
+
+Animation/Assets/Unity Recorder/Editor/Unity\.Recorder\.Editor\.asmdef
+
+Animation/Assets/Unity Recorder/Editor/Unity\.Recorder\.Editor\.asmdef\.meta
+
+Animation/Assets/Unity Recorder/LICENSE\.md
+
+Animation/Assets/Unity Recorder/LICENSE\.md\.meta
+
+Animation/Assets/Unity Recorder/Runtime\.meta
+
+Animation/Assets/Unity Recorder/Runtime/RecorderBindings\.cs
+
+Animation/Assets/Unity Recorder/Runtime/RecorderBindings\.cs\.meta
+
+Animation/Assets/Unity Recorder/Runtime/SerializedDictionnary\.cs
+
+Animation/Assets/Unity Recorder/Runtime/SerializedDictionnary\.cs\.meta
+
+Animation/Assets/Unity Recorder/Runtime/Unity\.Recorder\.asmdef
+
+Animation/Assets/Unity Recorder/Runtime/Unity\.Recorder\.asmdef\.meta
+
+Animation/Assets/Unity Recorder/Samples\.meta
+
+Animation/Assets/Unity Recorder/Samples/Editor\.meta
+
+Animation/Assets/Unity Recorder/Samples/Editor/RecorderEditorExample\.cs
+
+Animation/Assets/Unity Recorder/Samples/Editor/RecorderEditorExample\.cs\.meta
+
+Animation/Assets/Unity Recorder/Samples/RecorderExample\.cs
+
+Animation/Assets/Unity Recorder/Samples/RecorderExample\.cs\.meta
+
+Animation/Assets/Unity Recorder/Samples/Unity\.Recorder\.Samples\.asmdef
+
+Animation/Assets/Unity Recorder/Samples/Unity\.Recorder\.Samples\.asmdef\.meta
